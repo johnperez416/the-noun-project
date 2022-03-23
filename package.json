@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/rosshettel/the-noun-project",
   "dependencies": {
-    "mocha": "^5.2.0",
+    "mocha": "^6.2.3",
     "request": "^2.88.0"
   }
 }
